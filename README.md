@@ -4,17 +4,17 @@ Interactive 3D Animated Heading
 
 An immersive landing page built with Three.js and Vite featuring an interactive 3D heading, hover animations, particle sparks, and smooth visual effects for a premium user experience.
 
-<p align="center">
+<p>
+
+&#x20; <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge\\\&logo=javascript\\\&logoColor=black" alt="JavaScript">
+
+&#x20; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\\\&logo=html5\\\&logoColor=white" alt="HTML5">
+
+&#x20; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\\\&logo=css3\\\&logoColor=white" alt="CSS3">
 
 &#x20; <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=three.js\&logoColor=white" alt="Three.js">
 
 &#x20; <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white" alt="Vite">
-
-&#x20; <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black" alt="JavaScript">
-
-&#x20; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" alt="HTML5">
-
-&#x20; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white" alt="CSS3">
 
 </p></div>
 
@@ -171,10 +171,6 @@ Smooth Visual Effects
 Immersive User Experience
 
 ```
-
-Inspiration
-
-This project explores how interactive typography, particle effects, and smooth animations can create an engaging and premium landing page experience using Three.js.
 
 
 
