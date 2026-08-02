@@ -4,7 +4,7 @@ Interactive 3D Animated Heading
 
 An immersive landing page built with Three.js and Vite featuring an interactive 3D heading, hover animations, particle sparks, and smooth visual effects for a premium user experience.
 
-<p>
+<p align="center">
 
 &#x20; <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=three.js\&logoColor=white" alt="Three.js">
 
@@ -12,11 +12,11 @@ An immersive landing page built with Three.js and Vite featuring an interactive 
 
 &#x20; <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black" alt="JavaScript">
 
-&#x20; <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+&#x20; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" alt="HTML5">
 
-</p>
+&#x20; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white" alt="CSS3">
 
-</div>
+</p></div>
 
 
 
@@ -64,17 +64,17 @@ Tech Stack
 
 ```
 
-&#x20;Technology         | Purpose                   
+Technology         | Purpose                   
 
-&#x20;Three.js           | 3D Rendering              
+Three.js           | 3D Rendering              
 
-&#x20;JavaScript (ES6+)  | Application Logic         
+JavaScript (ES6+)  | Application Logic         
 
-&#x20;HTML5              | Structure                 
+HTML5              | Structure                 
 
-&#x20;CSS3               | Styling \& Animations      
+CSS3               | Styling \& Animations      
 
-&#x20;Vite               | Development \& Build Tool  
+Vite               | Development \& Build Tool  
 
 ```
 
@@ -82,7 +82,7 @@ Project Structure
 
 ```text
 
-3d-heading-final
+Interactive-3D-Animated-LOGO
 
 ├── public
 
@@ -106,7 +106,7 @@ Clone Repository
 
 ```bash
 
-git clone https://github.com/your-username/3d-heading-final.git
+git clone https://github.com/r-karthik-kk/Interactive-3D-Animated-LOGO.git
 
 ```
 
@@ -114,7 +114,7 @@ Navigate to Project
 
 ```bash
 
-cd 3d-heading-final
+cd Interactive-3D-Animated-LOGO
 
 ```
 
@@ -150,23 +150,23 @@ Project Workflow
 
 User
 
-&#x20; ├
+|
 
 Mouse Hover
 
-&#x20; ├
+|
 
 3D Text Interaction
 
-&#x20; |
+|
 
 Spark Particle Animation
 
-&#x20; |
+|
 
 Smooth Visual Effects
 
-&#x20; |
+|
 
 Immersive User Experience
 
