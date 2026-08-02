@@ -1,12 +1,6 @@
-Got it — here’s the cleaned \*\*code-only version\*\* with emojis, hashtags, and asterisks removed, exactly as you asked:
-
-
-
-```markdown
-
 <div align="center">
 
-Interactive 3D Animated Heading  
+Interactive 3D Animated Heading
 
 An immersive landing page built with Three.js and Vite featuring an interactive 3D heading, hover animations, particle sparks, and smooth visual effects for a premium user experience.
 
@@ -24,21 +18,17 @@ An immersive landing page built with Three.js and Vite featuring an interactive 
 
 </div>
 
-
-
 \---
 
+Demo
 
+> Replace these placeholders with your project assets.
 
-Demo  
+Live Preview: Coming Soon
 
-Replace these placeholders with your project assets.  
+Demo Video: Replace with your GitHub uploaded video link.
 
-Live Preview: Coming Soon  
-
-Demo Video: Replace with your GitHub uploaded video link.  
-
-Demo GIF  
+Demo GIF
 
 ```text
 
@@ -46,13 +36,9 @@ demo.gif
 
 ```
 
-
-
 \---
 
-
-
-Preview  
+Preview
 
 <p align="center">
 
@@ -60,13 +46,9 @@ Preview
 
 </p>
 
-
-
 \---
 
-
-
-Features  
+Features
 
 | Feature             | Description                                               |
 
@@ -84,13 +66,9 @@ Features
 
 | Fast Performance    | Powered by Vite for quick loading and development          |
 
-
-
 \---
 
-
-
-Tech Stack  
+Tech Stack
 
 | Technology        | Purpose                  |
 
@@ -106,13 +84,9 @@ Tech Stack
 
 | Vite               | Development \& Build Tool  |
 
-
-
 \---
 
-
-
-Project Structure  
+Project Structure
 
 ```text
 
@@ -132,17 +106,11 @@ Project Structure
 
 ```
 
-
-
 \---
 
+Getting Started
 
-
-Getting Started  
-
-
-
-Clone Repository  
+Clone Repository
 
 ```bash
 
@@ -150,9 +118,7 @@ git clone https://github.com/your-username/3d-heading-final.git
 
 ```
 
-
-
-Navigate to Project  
+Navigate to Project
 
 ```bash
 
@@ -160,9 +126,7 @@ cd 3d-heading-final
 
 ```
 
-
-
-Install Dependencies  
+Install Dependencies
 
 ```bash
 
@@ -170,9 +134,7 @@ npm install
 
 ```
 
-
-
-Start Development Server  
+Start Development Server
 
 ```bash
 
@@ -180,9 +142,7 @@ npm run dev
 
 ```
 
-
-
-Open your browser and visit:  
+Open your browser and visit:
 
 ```text
 
@@ -190,13 +150,9 @@ http://localhost:5173
 
 ```
 
-
-
 \---
 
-
-
-Project Workflow  
+Project Workflow
 
 ```text
 
@@ -234,61 +190,39 @@ Immersive User Experience
 
 ```
 
-
-
 \---
 
-
-
-Inspiration  
+Inspiration
 
 This project explores how interactive typography, particle effects, and smooth animations can create an engaging and premium landing page experience using Three.js.
 
+\---
 
+Future Improvements
+
+\- Additional particle effects
+
+\- Multiple animation modes
+
+\- Theme customization
+
+\- Touch and gesture interactions
+
+\- Performance optimizations
+
+\- Advanced background visual effects
 
 \---
 
-
-
-Future Improvements  
-
-\- Additional particle effects  
-
-\- Multiple animation modes  
-
-\- Theme customization  
-
-\- Touch and gesture interactions  
-
-\- Performance optimizations  
-
-\- Advanced background visual effects  
-
-
-
-\---
-
-
-
-License  
+License
 
 This project is licensed under the MIT License.
 
-
-
 \---
-
-
 
 <div align="center">
 
 Made with love using Three.js and Vite
 
 </div>
-
-```
-
-
-
-Do you want me to also \*\*strip out the horizontal dividers (`---`)\*\* so it’s completely plain text, or keep them for section separation?
 
