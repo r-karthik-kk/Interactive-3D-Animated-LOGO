@@ -2,11 +2,11 @@
 
 
 
-Interactive 3D Animated Heading
+\# Interactive 3D Animated Heading
 
 
 
-An immersive landing page built with Three.js and Vite featuring an interactive 3D heading, hover animations, particle sparks, and smooth visual effects for a premium user experience.
+\*\*An immersive landing page built with Three.js and Vite featuring an interactive 3D heading, hover animations, particle sparks, and smooth visual effects for a premium user experience.\*\*
 
 
 
@@ -32,27 +32,25 @@ An immersive landing page built with Three.js and Vite featuring an interactive 
 
 
 
-&#x20;Demo
+\## 🎥 Demo
 
 
 
-Replace these placeholders with your project assets.
+> Replace these placeholders with your project assets.
 
 
 
-Live Preview: Coming Soon
+\*\*Live Preview:\*\* Coming Soon
 
+\*\*Demo Video:\*\* Replace with your GitHub uploaded video link.
 
+\*\*Demo GIF\*\*
 
-Demo Video: Replace with your GitHub uploaded video link.
-
-
-
-Demo GIF
-
-
+```text
 
 demo.gif
+
+```
 
 
 
@@ -60,7 +58,7 @@ demo.gif
 
 
 
-&#x20;Preview
+\## 📸 Preview
 
 
 
@@ -76,49 +74,25 @@ demo.gif
 
 
 
-&#x20;Features
+\## ✨ Features
 
 
 
-| Feature | Description |
+| Feature             | Description                                               |
 
-| --- | --- |
+| -------------------- | ----------------------------------------------------------- |
 
-| Interactive 3D Text | Dynamic animated heading rendered with Three.js |
+| Interactive 3D Text | Dynamic animated heading rendered with Three.js            |
 
-| Hover Effects | Text reacts to cursor movement |
+| Hover Effects       | Text reacts to cursor movement                             |
 
-| Spark Animation | Particle sparks spread around the text during interaction |
+| Spark Animation     | Particle sparks spread around the text during interaction  |
 
-| Smooth Motion | Fluid animations with high frame rate |
+| Smooth Motion       | Fluid animations with high frame rate                      |
 
-| Responsive Design | Works across desktop and mobile devices |
+| Responsive Design   | Works across desktop and mobile devices                    |
 
-| Fast Performance | Powered by Vite for quick loading and development |
-
-
-
-\---
-
-
-
-&#x20;Tech Stack
-
-
-
-| Technology | Purpose |
-
-| --- | --- |
-
-| Three.js | 3D Rendering |
-
-| JavaScript (ES6+) | Application Logic |
-
-| HTML5 | Structure |
-
-| CSS3 | Styling \& Animations |
-
-| Vite | Development \& Build Tool |
+| Fast Performance    | Powered by Vite for quick loading and development          |
 
 
 
@@ -126,9 +100,35 @@ demo.gif
 
 
 
-&#x20;Project Structure
+\## 🛠️ Tech Stack
 
 
+
+| Technology        | Purpose                  |
+
+| ------------------ | ------------------------- |
+
+| Three.js           | 3D Rendering              |
+
+| JavaScript (ES6+)  | Application Logic         |
+
+| HTML5              | Structure                 |
+
+| CSS3               | Styling \& Animations      |
+
+| Vite               | Development \& Build Tool  |
+
+
+
+\---
+
+
+
+\## 📂 Project Structure
+
+
+
+```text
 
 3d-heading-final
 
@@ -144,95 +144,111 @@ demo.gif
 
 └── README.md
 
+```
+
 
 
 \---
 
 
 
-&#x20;Getting Started
+\## 🚀 Getting Started
 
 
 
-Clone Repository
+\### Clone Repository
 
-
+```bash
 
 git clone https://github.com/your-username/3d-heading-final.git
 
+```
 
 
-Navigate to Project
 
+\### Navigate to Project
 
+```bash
 
 cd 3d-heading-final
 
+```
 
 
-Install Dependencies
 
+\### Install Dependencies
 
+```bash
 
 npm install
 
+```
 
 
-Start Development Server
 
+\### Start Development Server
 
+```bash
 
 npm run dev
+
+```
 
 
 
 Open your browser and visit:
 
-
+```text
 
 http://localhost:5173
 
+```
+
 
 
 \---
 
 
 
-&#x20;Project Workflow
+\## 🔄 Project Workflow
 
 
+
+```text
 
 User
 
-&#x20;│
+&#x20; │
 
-&#x20;▼
+&#x20; ▼
 
 Mouse Hover
 
-&#x20;│
+&#x20; │
 
-&#x20;▼
+&#x20; ▼
 
 3D Text Interaction
 
-&#x20;│
+&#x20; │
 
-&#x20;▼
+&#x20; ▼
 
 Spark Particle Animation
 
-&#x20;│
+&#x20; │
 
-&#x20;▼
+&#x20; ▼
 
 Smooth Visual Effects
 
-&#x20;│
+&#x20; │
 
-&#x20;▼
+&#x20; ▼
 
 Immersive User Experience
+
+```
 
 
 
@@ -240,7 +256,7 @@ Immersive User Experience
 
 
 
-&#x20;Inspiration
+\## 💡 Inspiration
 
 
 
@@ -252,7 +268,7 @@ This project explores how interactive typography, particle effects, and smooth a
 
 
 
-&#x20;Future Improvements
+\## 🚀 Future Improvements
 
 
 
@@ -274,11 +290,11 @@ This project explores how interactive typography, particle effects, and smooth a
 
 
 
-&#x20;License
+\## 📄 License
 
 
 
-This project is licensed under the MIT License.
+This project is licensed under the \*\*MIT License\*\*.
 
 
 
@@ -290,7 +306,7 @@ This project is licensed under the MIT License.
 
 
 
-Made with ❤️ using Three.js and Vite
+\*\*Made with ❤️ using Three.js and Vite\*\*
 
 
 
