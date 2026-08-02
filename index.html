@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>3D Galaxy Heading</title>
+  <style>
+    body {
+      margin: 0;
+      background: black;
+      overflow: hidden;
+    }
+
+    canvas {
+      display: block;
+    }
+
+    /* Subtitle Styling */
+    #subtitle {
+      position: fixed;
+      bottom: 150px;
+      width: 100%;
+      text-align: center;
+      font-family: 'Helvetica Neue', sans-serif;
+      font-size: 30px;
+      font-weight: bold;
+      color: white;
+      text-shadow:
+        0 0 5px black,
+        0 0 5px white,
+        0 0 10px black,
+        0 0 30px white;
+      filter: blur(0px);
+      z-index: 10;
+      pointer-events: none;
+    }
+
+    /* Button Styling */
+    #continue-btn {
+      position: fixed;
+      bottom: 40px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 18px;
+      padding: 12px 32px;
+      background-color: rgba(255, 255, 255, 0.15);
+      color: white;
+      font-weight: bold;
+      border: 2px solid white;
+      border-radius: 12px;
+      backdrop-filter: blur(-8px);
+      box-shadow:
+        0 0 8px rgba(255, 255, 255, 0.6),
+        0 0 16px rgba(255, 255, 255, 0.3);
+      cursor: pointer;
+      z-index: 10;
+      transition: all 0.3s ease;
+    }
+
+    #continue-btn:hover {
+      background-color: rgba(255, 255, 255, 0.9);
+      color: black;
+      box-shadow:
+        0 0 12px white,
+        0 0 24px white;
+    }
+  </style>
+</head>
+<body>
+  <script type="module" src="/src/main.js"></script>
+
+  <!-- Glowing Subtitle -->
+  <div id="subtitle">Dominator's Terrain</div>
+
+  <!-- Blurry Glass-like Button -->
+  <!--<button id="continue-btn">Continue</button>-->
+
+</body>
+</html>
