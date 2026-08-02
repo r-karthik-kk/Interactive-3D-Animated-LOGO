@@ -22,27 +22,17 @@ An immersive landing page built with Three.js and Vite featuring an interactive 
 
 Demo
 
-> Replace these placeholders with your project assets.
+<p align="center">
 
-Live Preview: Coming Soon
+&#x20; <img src="./3d.gif" width="100%" alt="Interactive 3D Animated Heading Demo">
 
-Demo Video: Replace with your GitHub uploaded video link.
-
-Demo GIF
-
-```text
-
-demo.gif
-
-```
+</p>
 
 
-
-Preview
 
 <p align="center">
 
-&#x20; <img src="./public/3d.mp4" width="100%" alt="Project Preview">
+&#x20; <i>Interactive 3D heading with hover animations, spark particles, and smooth visual effects.</i>
 
 </p>
 
