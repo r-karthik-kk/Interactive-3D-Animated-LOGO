@@ -1,98 +1,148 @@
-\# ✨ Interactive 3D Animated Heading
+<div align="center">
 
 
 
-An immersive and interactive landing page built with \*\*Three.js\*\* and \*\*Vite\*\*, featuring a dynamic 3D heading that responds to user interaction. Hovering over the text triggers animated spark particles and interactive effects, creating a modern and engaging visual experience.
+\# Interactive 3D Animated Heading
 
 
 
-\---
+\*\*An immersive landing page built with Three.js and Vite featuring an interactive 3D heading, hover animations, particle sparks, and smooth visual effects for a premium user experience.\*\*
 
 
 
-\## 🎥 Demo
+<p>
+
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=three.js\&logoColor=white">
+
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black">
+
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+
+</p>
 
 
 
-> Replace the image below with your project preview or GIF.
+</div>
 
 
 
-!\[Demo](./public/demo.gif)
+\## Demo
 
 
 
-Or watch the full demo:
+> Replace these placeholders with your project assets.
 
 
 
-https://github.com/your-username/3d-heading-final/assets/your-video
+\*\*Live Preview:\*\* `Coming Soon`
 
 
 
-\---
+\*\*Demo Video:\*\* Replace with your GitHub uploaded video link.
 
 
 
-\## ✨ Features
+\*\*Demo GIF\*\*
 
 
 
-\- 🎯 Interactive 3D heading
+```text
 
-\- ✨ Animated spark particle effects
-
-\- 🖱️ Mouse hover interactions
-
-\- 🎨 Smooth animations and transitions
-
-\- ⚡ Built with Three.js for high-performance rendering
-
-\- 📱 Responsive design
-
-\- 🚀 Fast development using Vite
-
-
-
-\---
-
-
-
-\## 🛠️ Tech Stack
-
-
-
-\- Three.js
-
-\- JavaScript (ES6+)
-
-\- HTML5
-
-\- CSS3
-
-\- Vite
-
-
-
-\---
-
-
-
-\## 📂 Project Structure
-
-
+demo.gif
 
 ```
 
-3d-heading-final/
 
-│── public/
 
-│── src/
+\---
 
-│── index.html
 
-│── package.json
+
+\## Preview
+
+
+
+<p align="center">
+
+<img src="./public/screenshot.png" width="100%" alt="Project Preview">
+
+</p>
+
+
+
+\---
+
+
+
+\## Features
+
+
+
+| Feature             | Description                                               |
+
+| ------------------- | --------------------------------------------------------- |
+
+| Interactive 3D Text | Dynamic animated heading rendered with Three.js           |
+
+| Hover Effects       | Text reacts to cursor movement                            |
+
+| Spark Animation     | Particle sparks spread around the text during interaction |
+
+| Smooth Motion       | Fluid animations with high frame rate                     |
+
+| Responsive Design   | Works across desktop and mobile devices                   |
+
+| Fast Performance    | Powered by Vite for quick loading and development         |
+
+
+
+\---
+
+
+
+\## Tech Stack
+
+
+
+| Technology        | Purpose                  |
+
+| ----------------- | ------------------------ |
+
+| Three.js          | 3D Rendering             |
+
+| JavaScript (ES6+) | Application Logic        |
+
+| HTML5             | Structure                |
+
+| CSS3              | Styling \& Animations     |
+
+| Vite              | Development \& Build Tool |
+
+
+
+\---
+
+
+
+\## Project Structure
+
+
+
+```text
+
+3d-heading-final
+
+├── public
+
+├── src
+
+├── index.html
+
+├── package.json
+
+├── package-lock.json
 
 └── README.md
 
@@ -104,11 +154,11 @@ https://github.com/your-username/3d-heading-final/assets/your-video
 
 
 
-\## 🚀 Getting Started
+\## Getting Started
 
 
 
-\### Clone the repository
+\### Clone Repository
 
 
 
@@ -120,7 +170,7 @@ git clone https://github.com/your-username/3d-heading-final.git
 
 
 
-\### Navigate to the project
+\### Enter Project Folder
 
 
 
@@ -132,7 +182,7 @@ cd 3d-heading-final
 
 
 
-\### Install dependencies
+\### Install Dependencies
 
 
 
@@ -144,7 +194,7 @@ npm install
 
 
 
-\### Run the development server
+\### Start Development Server
 
 
 
@@ -156,11 +206,11 @@ npm run dev
 
 
 
-Open:
+Open your browser and visit:
 
 
 
-```
+```text
 
 http://localhost:5173
 
@@ -172,19 +222,45 @@ http://localhost:5173
 
 
 
-\## 📸 Preview
+\## Project Workflow
 
 
 
-Add screenshots here.
+```text
 
+User
 
+&#x20;  │
 
-| Home |
+&#x20;  ▼
 
-|------|
+Mouse Hover
 
-| !\[](./public/screenshot.png) |
+&#x20;  │
+
+&#x20;  ▼
+
+3D Text Interaction
+
+&#x20;  │
+
+&#x20;  ▼
+
+Particle Sparks
+
+&#x20;  │
+
+&#x20;  ▼
+
+Smooth Animation
+
+&#x20;  │
+
+&#x20;  ▼
+
+Interactive Experience
+
+```
 
 
 
@@ -192,11 +268,11 @@ Add screenshots here.
 
 
 
-\## 💡 Inspiration
+\## Inspiration
 
 
 
-This project explores how interactive typography and particle effects can enhance user engagement and create a premium landing page experience.
+This project demonstrates how interactive typography, particle systems, and smooth motion graphics can create a modern, engaging landing page experience using Three.js.
 
 
 
@@ -204,9 +280,49 @@ This project explores how interactive typography and particle effects can enhanc
 
 
 
-\## 📜 License
+\## Future Improvements
 
 
 
-This project is available under the MIT License.
+\* More particle effects
+
+\* Multiple animation modes
+
+\* Theme customization
+
+\* Touch interactions
+
+\* Performance optimization
+
+\* Background visual effects
+
+
+
+\---
+
+
+
+\## License
+
+
+
+This project is licensed under the \*\*MIT License\*\*.
+
+
+
+\---
+
+
+
+<div align="center">
+
+
+
+\*\*Made with ❤️ using Three.js and Vite\*\*
+
+
+
+</div>
+
+
 
