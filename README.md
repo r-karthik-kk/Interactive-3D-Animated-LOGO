@@ -42,7 +42,7 @@ Preview
 
 <p align="center">
 
-&#x20; <img src="./public/screenshot.png" width="100%" alt="Project Preview">
+&#x20; <img src="./public/3d.mp4" width="100%" alt="Project Preview">
 
 </p>
 
@@ -74,19 +74,17 @@ Tech Stack
 
 ```
 
-| Technology        | Purpose                  |
+&#x20;Technology         | Purpose                   
 
-| ------------------ | ------------------------- |
+&#x20;Three.js           | 3D Rendering              
 
-| Three.js           | 3D Rendering              |
+&#x20;JavaScript (ES6+)  | Application Logic         
 
-| JavaScript (ES6+)  | Application Logic         |
+&#x20;HTML5              | Structure                 
 
-| HTML5              | Structure                 |
+&#x20;CSS3               | Styling \& Animations      
 
-| CSS3               | Styling \& Animations      |
-
-| Vite               | Development \& Build Tool  |
+&#x20;Vite               | Development \& Build Tool  
 
 ```
 
@@ -162,11 +160,11 @@ Project Workflow
 
 User
 
-&#x20; |
+&#x20; ├
 
 Mouse Hover
 
-&#x20; |
+&#x20; ├
 
 3D Text Interaction
 
@@ -188,7 +186,7 @@ Inspiration
 
 This project explores how interactive typography, particle effects, and smooth animations can create an engaging and premium landing page experience using Three.js.
 
-=
+
 
 Future Improvements
 
