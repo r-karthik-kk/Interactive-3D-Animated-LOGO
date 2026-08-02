@@ -18,7 +18,7 @@ An immersive landing page built with Three.js and Vite featuring an interactive 
 
 </div>
 
-\---
+
 
 Demo
 
@@ -36,7 +36,7 @@ demo.gif
 
 ```
 
-\---
+
 
 Preview
 
@@ -46,29 +46,33 @@ Preview
 
 </p>
 
-\---
+
 
 Features
 
-| Feature             | Description                                               |
+```
 
-| -------------------- | ----------------------------------------------------------- |
+Feature - Description                                               
 
-| Interactive 3D Text | Dynamic animated heading rendered with Three.js            |
+Interactive 3D Text - Dynamic animated heading rendered with Three.js            
 
-| Hover Effects       | Text reacts to cursor movement                             |
+Hover Effects       - Text reacts to cursor movement                             
 
-| Spark Animation     | Particle sparks spread around the text during interaction  |
+Spark Animation     - Particle sparks spread around the text during interaction  
 
-| Smooth Motion       | Fluid animations with high frame rate                      |
+Smooth Motion       - Fluid animations with high frame rate                      
 
-| Responsive Design   | Works across desktop and mobile devices                    |
+Responsive Design   - Works across desktop and mobile devices                    
 
-| Fast Performance    | Powered by Vite for quick loading and development          |
+Fast Performance    - Powered by Vite for quick loading and development 
 
-\---
+```         
+
+
 
 Tech Stack
+
+```
 
 | Technology        | Purpose                  |
 
@@ -84,7 +88,7 @@ Tech Stack
 
 | Vite               | Development \& Build Tool  |
 
-\---
+```
 
 Project Structure
 
@@ -106,7 +110,7 @@ Project Structure
 
 ```
 
-\---
+
 
 Getting Started
 
@@ -150,7 +154,7 @@ http://localhost:5173
 
 ```
 
-\---
+
 
 Project Workflow
 
@@ -158,45 +162,33 @@ Project Workflow
 
 User
 
-&#x20; │
-
-&#x20; ▼
+&#x20; |
 
 Mouse Hover
 
-&#x20; │
-
-&#x20; ▼
+&#x20; |
 
 3D Text Interaction
 
-&#x20; │
-
-&#x20; ▼
+&#x20; |
 
 Spark Particle Animation
 
-&#x20; │
-
-&#x20; ▼
+&#x20; |
 
 Smooth Visual Effects
 
-&#x20; │
-
-&#x20; ▼
+&#x20; |
 
 Immersive User Experience
 
 ```
 
-\---
-
 Inspiration
 
 This project explores how interactive typography, particle effects, and smooth animations can create an engaging and premium landing page experience using Three.js.
 
-\---
+=
 
 Future Improvements
 
@@ -212,17 +204,11 @@ Future Improvements
 
 \- Advanced background visual effects
 
-\---
 
-License
-
-This project is licensed under the MIT License.
-
-\---
 
 <div align="center">
 
-Made with love using Three.js and Vite
+Made with love using HTML5, CSS3 and JS
 
 </div>
 
